@@ -177,7 +177,7 @@ body, body * {
     position: absolute;
     left: -100%;
     top: -370%;
-    background-color: #eb6620;
+    background-color: #0D5A7E;
     transition: all .3s;
     transform: rotate(-55deg)
 }
